@@ -25,8 +25,6 @@
 | **[deronode](https://github.com/moralpriest/deronode)** | All-in-one DERO node installer and manager |
 | **[deromine](https://github.com/moralpriest/deromine)** | All-in-one DERO miner setup |
 | **[tela-gateway](https://github.com/moralpriest/tela-gateway)** | Public HTTP gateway for on-chain TELA apps |
-| **[docker-dero](https://github.com/moralpriest/docker-dero)** | Dockerised DERO daemon |
-| **[dero-devtalk](https://github.com/moralpriest/dero-devtalk)** | Meeting notes for the DERO Dev Talk community |
 
 ---
 
